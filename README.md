@@ -16,7 +16,7 @@ The SIDFLC is an over-engineered proof-of-concept projectile launcher with the i
 
 ## Android App (currently not avaiable for download)
 
-<img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20220822-211830.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104148.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104220.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104228.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104358.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104308.png" width="150">
+<img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230917-120730.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104148.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104220.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104228.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104358.png" width="150"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/Screenshot_20230217-104308.png" width="150">
 
 ### App Features
 * OTA-DFU
