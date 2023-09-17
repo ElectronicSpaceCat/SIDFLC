@@ -11,8 +11,8 @@ The SIDFLC is an over-engineered proof-of-concept projectile launcher with the i
 * Easy spring swap out (take caution when doing so)
 * USB-C battery charging
 * Single button interface: - on/off, force off, delete bonds, bootloader
-* Indication LED - System running, bootloader, Bluetooth advertising
-* Indication LED - Charge status
+* Indication LED 1 - System running, bootloader, Bluetooth advertising
+* Indication LED 2 - Charge status
 
 ## Android App (currently not avaiable for download)
 
@@ -53,8 +53,7 @@ In order to calculate the projectile ballistics, the device height, target dista
   * The **TH** can be manually set to zero if the target is flat and at ground level.
   * When **DH**, **TD**, or **TH** are set manually, they will be skipped during the target data acquisition sequence. 
 
-Below is a simple pictorial of how it works:
-
+A pictorial for how to use it:  
 <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/instructions.png" width="400">
 
 ## Mobile Phone Attachment
