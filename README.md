@@ -61,8 +61,8 @@ Below is a simple pictorial of how it works:
 Ideally, something like the FLEXclip could be used to fix the device to the back of a mobile phone, eliminating the need for a custom case: https://www.synergywiz.com/flexclip
 
 ## Project Contents
-* Firmware: https://github.com/ElectronicSpaceCat/sidflc-app
-* Bootloader: https://github.com/ElectronicSpaceCat/sidflc-bootloader
+* Firmware: https://github.com/ElectronicSpaceCat/sidflc-fw-app
+* Bootloader: https://github.com/ElectronicSpaceCat/sidflc-fw-bootloader
 * PCB primary: https://github.com/ElectronicSpaceCat/sidflc-pcb-bt
 * PCB secondary: https://github.com/ElectronicSpaceCat/sidflc-pcb-tof
 * CAD model: https://github.com/ElectronicSpaceCat/sidflc-3d-model
