@@ -4,7 +4,7 @@
 
 The SIDFLC is an over-engineered proof-of-concept projectile launcher with the intention of being as small as possible yet delivering a decent target range. It is designed to sit at the back of a mobile phone where the user physically pulls and releases the projectile-carriage to launch. It uses torsion springs instead of rubberbands (which you'll see in most designs). It can reach about 15 feet with the current springs, but it can easily hit 20-25 feet with larger ones. It can typically hit within 1 to 5 inches of the target if tuned and calibrated well. The big difference with SIDFLC is that it has two custom circuit boards working together to read the projectile-carriage positon and device height using time-of-flight (ToF) sensors. The sensor data is relayed over bluetooth low energy (BLE) to the mobile phone. The mobile's gyroscope is required in conjuntion with the sensor data for target alignment and ballistic calculations. It runs on a 3.7V lithium-ion battery which can be charged over USB-C and a single button is used to turn on/off the device. To top it off, the device has over-the-air (OTA) device-firmeware-update (DFU) where it can recieve updates over Bluetooth via the Android mobile application.
 
-<img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/device_internals.jpg" width="250"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/device_model.png" width="400">
+<img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/DSC_0487.JPG" width="250"> <img src="https://github.com/ElectronicSpaceCat/SIDFLC/blob/master/extra/images/device_model.png" width="400">
 
 ### Device Features
 * Dimensions: 95mm x 62mm x 8mm
