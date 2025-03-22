@@ -60,9 +60,9 @@ A pictorial for how to use it:
 Ideally, something like the FLEXclip could be used to fix the device to the back of a mobile phone, eliminating the need for a custom case: https://www.synergywiz.com/flexclip
 
 ## Project Contents
+* Android app: https://github.com/ElectronicSpaceCat/sidflc-android-app
 * Firmware: https://github.com/ElectronicSpaceCat/sidflc-fw-app
 * Bootloader: https://github.com/ElectronicSpaceCat/sidflc-fw-bootloader
 * PCB primary: https://github.com/ElectronicSpaceCat/sidflc-pcb-bt
 * PCB secondary: https://github.com/ElectronicSpaceCat/sidflc-pcb-tof
 * CAD model: https://github.com/ElectronicSpaceCat/sidflc-3d-model
-* Android app: -- apk not yet avaiable -- 
